@@ -1,0 +1,10 @@
+leao
+onca
+macaco
+cachorro
+gato
+cobra
+pinguim
+jacare
+lobo
+lagartixa
